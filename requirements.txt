@@ -1,0 +1,5 @@
+pandas==1.4.2
+phonenumbers==8.12.46
+tkcalendar==1.6.1
+XlsxWriter==3.0.3
+Pillow~=9.1.1
